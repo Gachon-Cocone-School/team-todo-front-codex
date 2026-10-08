@@ -1,0 +1,14 @@
+.next/
+out/
+build/
+dist/
+coverage/
+.turbo/
+node_modules/
+next-env.d.ts
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lock
+bun.lockb
+docs/DESIGN-*.md
